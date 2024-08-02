@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio-app-react/static/css/main.726de7b5.css",
-    "main.js": "/portfolio-app-react/static/js/main.11e31f13.js",
+    "main.css": "/portfolio-app-react/static/css/main.cd36f056.css",
+    "main.js": "/portfolio-app-react/static/js/main.06abe1e3.js",
     "static/js/453.dcefe9c8.chunk.js": "/portfolio-app-react/static/js/453.dcefe9c8.chunk.js",
     "static/media/health-care.png": "/portfolio-app-react/static/media/health-care.edbc9bf6c281e19b9b2b.png",
     "static/media/levelup-logo.png": "/portfolio-app-react/static/media/levelup-logo.1d94669d581932020d4b.png",
@@ -17,12 +17,12 @@
     "static/media/avatar.svg": "/portfolio-app-react/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
     "static/media/pre.svg": "/portfolio-app-react/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/portfolio-app-react/index.html",
-    "main.726de7b5.css.map": "/portfolio-app-react/static/css/main.726de7b5.css.map",
-    "main.11e31f13.js.map": "/portfolio-app-react/static/js/main.11e31f13.js.map",
+    "main.cd36f056.css.map": "/portfolio-app-react/static/css/main.cd36f056.css.map",
+    "main.06abe1e3.js.map": "/portfolio-app-react/static/js/main.06abe1e3.js.map",
     "453.dcefe9c8.chunk.js.map": "/portfolio-app-react/static/js/453.dcefe9c8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.726de7b5.css",
-    "static/js/main.11e31f13.js"
+    "static/css/main.cd36f056.css",
+    "static/js/main.06abe1e3.js"
   ]
 }
