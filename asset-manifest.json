@@ -1,16 +1,28 @@
 {
   "files": {
-    "main.css": "/portfolio-app-react/static/css/main.f855e6bc.css",
-    "main.js": "/portfolio-app-react/static/js/main.2464ba8e.js",
-    "static/js/453.f4fbaa6d.chunk.js": "/portfolio-app-react/static/js/453.f4fbaa6d.chunk.js",
-    "static/media/logo.svg": "/portfolio-app-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/portfolio-app-react/static/css/main.726de7b5.css",
+    "main.js": "/portfolio-app-react/static/js/main.11e31f13.js",
+    "static/js/453.dcefe9c8.chunk.js": "/portfolio-app-react/static/js/453.dcefe9c8.chunk.js",
+    "static/media/health-care.png": "/portfolio-app-react/static/media/health-care.edbc9bf6c281e19b9b2b.png",
+    "static/media/levelup-logo.png": "/portfolio-app-react/static/media/levelup-logo.1d94669d581932020d4b.png",
+    "static/media/home-main.svg": "/portfolio-app-react/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/portfolio-app-react/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Loveneet-Singh-CV-V2-2024-ATS.pdf": "/portfolio-app-react/static/media/Loveneet-Singh-CV-V2-2024-ATS.9ccdfe0b7156f42ae92a.pdf",
+    "static/media/gander.png": "/portfolio-app-react/static/media/gander.fcc7c2d58dfab88313ef.png",
+    "static/media/shapenet.png": "/portfolio-app-react/static/media/shapenet.7c57780fc2c306d5ad79.png",
+    "static/media/mandy-movers-packers.png": "/portfolio-app-react/static/media/mandy-movers-packers.ca1c2ac7ce0e78e3f697.png",
+    "static/media/gstbolton.jpg": "/portfolio-app-react/static/media/gstbolton.08870ab6df8f20f20f3a.jpg",
+    "static/media/home-bg.jpg": "/portfolio-app-react/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/logo.png": "/portfolio-app-react/static/media/logo.a06d033f5ffe8a40f528.png",
+    "static/media/avatar.svg": "/portfolio-app-react/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/portfolio-app-react/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/portfolio-app-react/index.html",
-    "main.f855e6bc.css.map": "/portfolio-app-react/static/css/main.f855e6bc.css.map",
-    "main.2464ba8e.js.map": "/portfolio-app-react/static/js/main.2464ba8e.js.map",
-    "453.f4fbaa6d.chunk.js.map": "/portfolio-app-react/static/js/453.f4fbaa6d.chunk.js.map"
+    "main.726de7b5.css.map": "/portfolio-app-react/static/css/main.726de7b5.css.map",
+    "main.11e31f13.js.map": "/portfolio-app-react/static/js/main.11e31f13.js.map",
+    "453.dcefe9c8.chunk.js.map": "/portfolio-app-react/static/js/453.dcefe9c8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.2464ba8e.js"
+    "static/css/main.726de7b5.css",
+    "static/js/main.11e31f13.js"
   ]
 }
