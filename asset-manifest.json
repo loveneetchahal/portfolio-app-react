@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/portfolio-app-react/static/css/main.cd36f056.css",
-    "main.js": "/portfolio-app-react/static/js/main.06abe1e3.js",
+    "main.js": "/portfolio-app-react/static/js/main.ac32a26e.js",
     "static/js/453.dcefe9c8.chunk.js": "/portfolio-app-react/static/js/453.dcefe9c8.chunk.js",
     "static/media/health-care.png": "/portfolio-app-react/static/media/health-care.edbc9bf6c281e19b9b2b.png",
+    "static/media/home-main.svg": "/portfolio-app-react/static/media/home-main.b2a10602351ac09930fab8410d6d910f.svg",
     "static/media/levelup-logo.png": "/portfolio-app-react/static/media/levelup-logo.1d94669d581932020d4b.png",
-    "static/media/home-main.svg": "/portfolio-app-react/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/avatar.svg": "/portfolio-app-react/static/media/avatar.61d80b37f25c40a90c4d350911f8e119.svg",
     "static/media/about.png": "/portfolio-app-react/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/Loveneet-Singh-CV-V2-2024-ATS.pdf": "/portfolio-app-react/static/media/Loveneet-Singh-CV-V2-2024-ATS.9ccdfe0b7156f42ae92a.pdf",
     "static/media/gander.png": "/portfolio-app-react/static/media/gander.fcc7c2d58dfab88313ef.png",
@@ -14,15 +15,14 @@
     "static/media/gstbolton.jpg": "/portfolio-app-react/static/media/gstbolton.08870ab6df8f20f20f3a.jpg",
     "static/media/home-bg.jpg": "/portfolio-app-react/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/logo.png": "/portfolio-app-react/static/media/logo.a06d033f5ffe8a40f528.png",
-    "static/media/avatar.svg": "/portfolio-app-react/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
     "static/media/pre.svg": "/portfolio-app-react/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/portfolio-app-react/index.html",
     "main.cd36f056.css.map": "/portfolio-app-react/static/css/main.cd36f056.css.map",
-    "main.06abe1e3.js.map": "/portfolio-app-react/static/js/main.06abe1e3.js.map",
+    "main.ac32a26e.js.map": "/portfolio-app-react/static/js/main.ac32a26e.js.map",
     "453.dcefe9c8.chunk.js.map": "/portfolio-app-react/static/js/453.dcefe9c8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cd36f056.css",
-    "static/js/main.06abe1e3.js"
+    "static/js/main.ac32a26e.js"
   ]
 }
