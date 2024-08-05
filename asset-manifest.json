@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-app-react/static/css/main.cd36f056.css",
-    "main.js": "/portfolio-app-react/static/js/main.ac32a26e.js",
+    "main.js": "/portfolio-app-react/static/js/main.6c351cdb.js",
     "static/js/453.dcefe9c8.chunk.js": "/portfolio-app-react/static/js/453.dcefe9c8.chunk.js",
     "static/media/health-care.png": "/portfolio-app-react/static/media/health-care.edbc9bf6c281e19b9b2b.png",
     "static/media/home-main.svg": "/portfolio-app-react/static/media/home-main.b2a10602351ac09930fab8410d6d910f.svg",
@@ -18,11 +18,11 @@
     "static/media/pre.svg": "/portfolio-app-react/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/portfolio-app-react/index.html",
     "main.cd36f056.css.map": "/portfolio-app-react/static/css/main.cd36f056.css.map",
-    "main.ac32a26e.js.map": "/portfolio-app-react/static/js/main.ac32a26e.js.map",
+    "main.6c351cdb.js.map": "/portfolio-app-react/static/js/main.6c351cdb.js.map",
     "453.dcefe9c8.chunk.js.map": "/portfolio-app-react/static/js/453.dcefe9c8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cd36f056.css",
-    "static/js/main.ac32a26e.js"
+    "static/js/main.6c351cdb.js"
   ]
 }
