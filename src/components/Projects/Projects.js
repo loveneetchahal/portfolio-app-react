@@ -27,19 +27,17 @@ function Projects() {
               isBlog={false}
               title="LevelUp LMS"
               description="Levelup LMS is the world's simplest Learning Management System (LMS). It's the perfect LMS for employee training, onboarding, compliance training, and more."
-             //ghLink="https://github.com/soumyajit4419/Chatify"
+           
               demoLink="https://www.leveluplms.com/"
             />
           </Col>
-
+          {/* ghLink="https://github.com/leveluplms/" */}
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={healthcare}
               isBlog={false}
               title="Infinity-Doctors / Livecare"
               description="Infinity-Doctors is a API allowing doctor & patient medical answering service for a local physician-owned medical society. Infinity-Doctors provides nationwide service to medical practices, clinics, hospitals, dental practices, and other exclusively medical services."
-              //ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
-              //demoLink="https://blogs.soumya-jit.tech/"
             />
           </Col>
 
@@ -49,8 +47,6 @@ function Projects() {
               isBlog={false}
               title="GST-Bolton"
               description="GST Bolton is a tool for GST tax computations and filing GST Returns. GST Bolton is a one stop solution for all GST Needs. GST is perhaps the biggest tax reform in India and being well-informed about GST is crucial for being updated with the latest happenings on GST front."
-              //ghLink="https://github.com/soumyajit4419/Editor.io"
-              //demoLink="https://editor.soumya-jit.tech/"              
             />
           </Col>
 
@@ -60,7 +56,6 @@ function Projects() {
               isBlog={false}
               title="Gander App"
               description="The Gander app that helps you save money on your food & grocery shopping whilst substantially reducing food waste."
-              //ghLink="https://github.com/soumyajit4419/Plant_AI"
               demoLink="https://www.gander.co/"
             />
           </Col>
@@ -71,7 +66,7 @@ function Projects() {
               isBlog={false}
               title="ShapeNet Software"
               description="Shapenet software is club management system to manage the club, trainers & appointments. it deliver a full suite of integrated technology solutions. From billing members, selling products and services, member self-service solutions, scheduling a class/training session on-line or through a club branded app, maintaining up to date member health profiles, and much more."
-              ghLink="https://shapenetsoftware.com/"
+              demoLink="https://shapenetsoftware.com/"
             />
           </Col>
 
@@ -81,7 +76,7 @@ function Projects() {
               isBlog={false}
               title="Movers and Packer Booking Software"
               description="Moving and packing services are professional services offered to individuals and businesses to help them relocate from one place to another. These services are typically provided by moving companies or movers who specialize in packing, loading, transporting, unloading, and unpacking belongings."
-              ghLink="https://www.mandymovingandpacking.com.au/" 
+              demoLink="https://www.mandymovingandpacking.com.au/" 
             />
           </Col>
         </Row>
